@@ -1,5 +1,8 @@
 # HTR
 Handwriting Text Recognition
 
-Ситема распознавания рукописного текста.
+Сиcтема распознавания рукописного текста.
+
+Модели:
+https://yadi.sk/d/q8HBgoUS3jZXzw
 
