@@ -1,7 +1,7 @@
 # HTR
 Handwriting Text Recognition
 
-Сиcтема распознавания рукописного текста.
+Программа для распознавания рукописного текста.
 
 Архитектура:
 ![Архитектура](https://github.com/Hramchenko/HTR/blob/master/rect3713.png)
