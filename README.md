@@ -3,6 +3,9 @@ Handwriting Text Recognition
 
 Сиcтема распознавания рукописного текста.
 
+Архитектура сети:
+![Архитектура](https://github.com/Hramchenko/HTR/blob/master/rect3713.png)
+
 Зависимости:
 
 -pytorch
